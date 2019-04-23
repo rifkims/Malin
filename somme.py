@@ -1,3 +1,4 @@
+#ini tugas 3 malin tentang som
 import numpy as np 
 import matplotlib.pyplot as plt
 import random as random
