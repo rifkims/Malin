@@ -3,6 +3,8 @@ import pandas as pd
 import random as random
 import matplotlib.pyplot as plt 
 
+#QLearning pake TXT ya
+
 data = np.genfromtxt('data3.txt')
 q_matrix = np.zeros((15,15))
 g = 0.8
