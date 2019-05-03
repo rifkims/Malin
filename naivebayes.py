@@ -1,5 +1,6 @@
 import csv
 import math 
+# Naive Bayes data excelnya yang data trinset sama data test ya
 #data yang digunakan untuk menghitung dan menentukan kelas >50K dan <=50K
 age_a = [['young',0],['adult',0],['old',0]]
 age_b = [['young',0],['adult',0],['old',0]]
